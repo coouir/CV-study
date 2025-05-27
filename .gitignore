@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pb
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# 환경 파일
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
